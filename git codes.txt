@@ -24,3 +24,6 @@ git commit -m "Commit message"
 #Now the file is committed to the HEAD, but not in your remote repository yet.
 git push origin master
 
+
+#exclude files/folders from git
+echo '<filename/folder>' > .gitignore
