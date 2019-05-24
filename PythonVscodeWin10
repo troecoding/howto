@@ -1,0 +1,2 @@
+#create project folder, go to folder and create virtual environment
+py -3 -m venv .venv
